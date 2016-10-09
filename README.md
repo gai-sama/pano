@@ -48,7 +48,7 @@
 
 ---
 
-## Demo01_Render_JSX
+## Demo01: Render JSX
 
 
 The template syntax in React is called [JSX](http://facebook.github.io/react/docs/displaying-data.html#jsx-syntax). It is allowed in JSX to put HTML tags directly into JavaScript codes. `ReactDOM.render()` is the method which translates JSX into HTML, and renders it into the specified DOM node.
